@@ -16,11 +16,6 @@ Este é um projeto em Java que realiza a conversão de moedas em tempo real util
 - Gson para JSON
 - IntelliJ IDEA
 
-## **Visão Geral da Aplicação**
-Você pode acessar a versão ao vivo do projeto hospedado no Vercel clicando no link abaixo:
-[**Conversor de Moedas**](https://1-challenge-amigo-secreto.vercel.app)
-ou através do [**Reposítório do GitHub**](https://github.com/gleicebonfim/ConversorDeMoedas)
-
 ## **Contato**
 Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato comigo:
 - **LinkedIn**: [Gleice Bonfim](www.linkedin.com/in/gleice-bonfim)
